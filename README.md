@@ -1,4 +1,4 @@
-# Bytesize Pic
+<img width="512" height="120" alt="Bytesize Pic" src="https://github.com/user-attachments/assets/469b9aa2-e33f-48c2-96f9-eba33d2f3371" />
 
 A free offline batch image optimizer for Windows. No uploads, no file limits, no account required. Everything runs locally.
 
@@ -14,6 +14,9 @@ A free offline batch image optimizer for Windows. No uploads, no file limits, no
 ## Requirements
 - Windows 10 or later
 - ~112MB disk space
+
+## Download
+**[⬇ Download Bytesize Pic v1.0.0](../../releases/latest)**
 
 ## Installation
 Download and run the .exe installer. Windows may show a SmartScreen warning since the app isn't code-signed yet. Click "More info" then "Run anyway."
