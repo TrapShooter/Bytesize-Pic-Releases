@@ -2,6 +2,8 @@
 
 A free offline batch image optimizer for Windows. No uploads, no file limits, no account required. Everything runs locally.
 
+https://github.com/user-attachments/assets/0e9b4f8d-6ed6-4072-8fcb-ec86a00f7d08
+
 ## Main Features
 - Batch process entire folder structures at once
 - Convert between formats (JPEG, PNG, WebP, AVIF, TIFF, GIF, HEIC, HEIF)
