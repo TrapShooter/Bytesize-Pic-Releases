@@ -4,8 +4,8 @@
   "pub_date": "2026-06-08T00:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "REPLACE_WITH_.nsis.zip.sig_CONTENTS",
-      "url": "https://github.com/TrapShooter/Bytesize-Pic-Releases/releases/download/v1.1.0/Bytesize.Pic_1.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOHp0SE5EWU1vVC9iMzUvQzIvcFBraXY3d3lGdytQWjRNRkVxV2F0NXNQQm96NUM5Vy9xaTZFZ0g2ZnVUNGV3ZWYyZFVSdTlBM0EzMjE4a1NML0VHbWdIRmVLTkhybEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTYwMDYzCWZpbGU6Qnl0ZXNpemUgUGljXzEuMS4wX3g2NC1zZXR1cC5leGUKa0tNZmVqdUs2aWZzZUxaTnlMcTFpZWRjaUlRWUJjTDBxWkJvV2lsNFV5SVVIOUh1UCthY3VuRFFlRHBIdWxkTEhUNGFSUSsvM0xyZmJzZ1ZEbDN3QlE9PQo=",
+      "url": "https://github.com/TrapShooter/Bytesize-Pic-Releases/releases/download/v1.1.0/Bytesize.Pic_1.1.0_x64-setup.exe"
     }
   }
 }
