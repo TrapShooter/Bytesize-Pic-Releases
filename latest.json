@@ -1,10 +1,10 @@
 {
   "version": "1.1.0",
-  "notes": "See the changelog for details.",
-  "pub_date": "2026-06-08T00:00:00.000Z",
+  "notes": "## New features\n\n- This is a test\n- Lightbox filmstrip for quick file navigation\n- Before/After comparison toggle in toolbar and lightbox\n- Collapsible settings sidebar in lightbox\n- Sharpen, Blur, and Threshold controls in Color & Tone\n- Fill crop position control\n- Multiple folders can be selected at once via Add Folders\n- Scrolling filename on hover for truncated names\n- One-click in-app updates: the update banner now downloads and installs the new version directly. No browser or manual download required.\n\n## Improvements\n\n- Relative path prefix shown in lighter color on filenames and lightbox\n- Hover tooltips on settings fields\n- Improved section spacing in settings\n- Per-format reset buttons in advanced format options\n- Renamed \"Exact output size\" to \"Exact size with padding\"",
+  "pub_date": "2026-06-09T01:04:04.362Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOHp0SE5EWU1vVC9iMzUvQzIvcFBraXY3d3lGdytQWjRNRkVxV2F0NXNQQm96NUM5Vy9xaTZFZ0g2ZnVUNGV3ZWYyZFVSdTlBM0EzMjE4a1NML0VHbWdIRmVLTkhybEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTYwMDYzCWZpbGU6Qnl0ZXNpemUgUGljXzEuMS4wX3g2NC1zZXR1cC5leGUKa0tNZmVqdUs2aWZzZUxaTnlMcTFpZWRjaUlRWUJjTDBxWkJvV2lsNFV5SVVIOUh1UCthY3VuRFFlRHBIdWxkTEhUNGFSUSsvM0xyZmJzZ1ZEbDN3QlE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOHp0SE5EWU1vVHlkcHJuejN3R2ZJZmVIbTMzdlNucDhodTFOT3p4aHpQOXp0QjFsQVJ2dTBDLzErcjdPd0dYclFtY25hYXdYUWN0R3dtelhZeTFnRitISVpBNnVwTXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY2OTUxCWZpbGU6Qnl0ZXNpemUgUGljXzEuMS4wX3g2NC1zZXR1cC5leGUKdFpMS2hiTlNPWFRWMWdLZHg1Rk9NeDVRVGZWMjFqeEgyNllsempDWjRDaTNNZWhTeEh2bmhSaFlVdGRqNUdMeVI1aU51bzJYSHArSW9nZlpHUEluQ2c9PQo=",
       "url": "https://github.com/TrapShooter/Bytesize-Pic-Releases/releases/download/v1.1.0/Bytesize.Pic_1.1.0_x64-setup.exe"
     }
   }
