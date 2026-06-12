@@ -6,7 +6,6 @@ All notable changes to Bytesize Pic are documented here.
 
 ### New features
 
-- Testing
 - Color & Tone panel overhauled: effects are now multi-instance and can be reordered via drag-and-drop
 - New effects: Noise/Grain, Gradient Map, and Brightness/Contrast
 - Modulate effect renamed to Hue/Saturation
