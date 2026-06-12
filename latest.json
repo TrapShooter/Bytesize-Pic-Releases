@@ -1,10 +1,10 @@
 {
   "version": "1.2.0",
   "notes": "## New features\n\n- Color & Tone panel overhauled: effects are now multi-instance and can be reordered via drag-and-drop\n- New effects: Noise/Grain, Gradient Map, and Brightness/Contrast\n- Modulate effect renamed to Hue/Saturation\n- Colorize mode added to Hue/Saturation\n- Brightness/Contrast is now a dedicated effect (Brightness moved out of Hue/Saturation)\n- Brightness now offers Multiply and Lift modes\n- Blend mode selector for Tint effect\n- Gradient mode for Tint effect\n- Transparency grid background setting for previews\n- Hover previews now preserve transparency: images with an alpha channel are shown as PNG instead of JPEG so transparency is visible in the preview\n- Undo/redo for settings and file list changes\n- Sidebar cards can now collapse individual sections independently\n\n## Improvements\n\n- Color fields now use a consistent swatch + hex text input across all effects\n\n## Fixes\n\n- Fixed previews not regenerating when switching between basic and advanced mode\n- Fixed context menu not closing on scroll or when another menu opens\n- Fixed Tint effect stripping transparency on images with an alpha channel",
-  "pub_date": "2026-06-12T00:48:26.426Z",
+  "pub_date": "2026-06-12T02:10:14.175Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOHp0SE5EWU1vVDdhbERuWm5ua1VmZUx2d1l2R0ZXc3pCRXlJQ3FmTVkzSkh6NmpRelNNOVowdW1MWEtLbElUUWVPL0hYYTg5alpsVXhTR3hVdWFnQlU0NkhYVUFTdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjI1MjQ2CWZpbGU6Qnl0ZXNpemUgUGljXzEuMi4wX3g2NC1zZXR1cC5leGUKaG9saFNKSEV3WVF1UkZTTlNUcDFWUE92RE9JdE9QRkVCUHJDUld1WEtDbUo4cC9DUTZNWnJCWjVCc2xYWUlIOXdabnZXeXpzWG5WWDNFOGVQKy9GQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOHp0SE5EWU1vVDA0L2ZleExmTFdFLzF1R1pVNmpvbVNBQ0NveVE4NUFMZkFZYUZ1d29UVWFlQi9uejZJdmd6ZFo5dVNZRlFoVHRVbTdKUDU1VUY4TnltUCtRVmhSdUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjMwMjAxCWZpbGU6Qnl0ZXNpemUgUGljXzEuMi4wX3g2NC1zZXR1cC5leGUKVXFCVkZrVVR0UVFCd3hkNDF3c1RSTzlYYXZWaWxZV2dLTWxPZ2szTzVybVpQKzBaVytCOUI4NytmQWpRNHF4ZU1Gbmd0eWtCVlFIWlRYcmtrM2E3Q3c9PQo=",
       "url": "https://github.com/TrapShooter/Bytesize-Pic-Releases/releases/download/v1.2.0/Bytesize.Pic_1.2.0_x64-setup.exe"
     }
   }
