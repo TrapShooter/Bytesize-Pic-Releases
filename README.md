@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/0e9b4f8d-6ed6-4072-8fcb-ec86a00f7d08
 - ~112MB disk space
 
 ## Download
-**[⬇ Download Bytesize Pic v1.0.0](../../releases/latest)**
+**[⬇ Download Bytesize Pic](../../releases/latest)**
 
 ## Installation
 Download and run the .exe installer. Windows may show a SmartScreen warning since the app isn't code-signed yet. Click "More info" then "Run anyway."
