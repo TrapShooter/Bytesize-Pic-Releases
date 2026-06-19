@@ -1,8 +1,10 @@
-# Bytesize Pic
+<img width="512" height="120" alt="Bytesize Pic" src="https://github.com/user-attachments/assets/469b9aa2-e33f-48c2-96f9-eba33d2f3371" />
 
-A fast, offline-first desktop app for batch image compression and conversion on Windows.
+A fast, offline-first desktop app for batch image compression, editing, and conversion on Windows.
 
-## Features
+https://github.com/user-attachments/assets/0e9b4f8d-6ed6-4072-8fcb-ec86a00f7d08
+
+## Main Features
 
 - **Batch processing** — drag and drop folders or individual files and process them all at once.
 - **Format conversion** — JPEG, PNG, WebP, AVIF, GIF, TIFF, HEIC, BMP. Per-format codec options.
