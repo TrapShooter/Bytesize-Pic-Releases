@@ -2,7 +2,7 @@
 
 A fast, offline-first desktop app for batch image compression, editing, and conversion on Windows.
 
-https://github.com/user-attachments/assets/0e9b4f8d-6ed6-4072-8fcb-ec86a00f7d08
+https://github.com/user-attachments/assets/685d7c9e-8812-446d-b647-0653b0173986
 
 ## Main Features
 
